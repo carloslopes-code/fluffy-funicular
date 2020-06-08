@@ -1,2 +1,2 @@
-# fluffy-funicula
-Amen granulator
+# fluffy-funicular
+Granular Soundscapes
