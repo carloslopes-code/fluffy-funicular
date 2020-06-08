@@ -1,2 +1,2 @@
-# fluffy-funicular
+# fluffy-funicula
 Amen granulator
